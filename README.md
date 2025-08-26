@@ -1,6 +1,6 @@
 # SetonWall
 
-A small program that simplifies changing wallpapers on sway-wm. 
+A small program that simplifies changing wallpapers on [sway-wm](https://swaywm.org/). 
 
 ## Usage
 
